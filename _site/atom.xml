@@ -4,13 +4,56 @@
  <title>race_conditions</title>
  <link href="http://winterflower.github.io/atom.xml" rel="self"/>
  <link href="http://winterflower.github.io/"/>
- <updated>2014-10-31T00:00:17+00:00</updated>
+ <updated>2014-10-31T23:45:20+00:00</updated>
  <id>http://winterflower.github.io</id>
  <author>
    <name>Camilla Montonen</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Python Dna</title>
+   <link href="http://winterflower.github.io/2014/10/30/python-dna/"/>
+   <updated>2014-10-30T00:00:00+00:00</updated>
+   <id>http://winterflower.github.io/2014/10/30/python-dna</id>
+   <content type="html">&lt;script type=&quot;text/javascript&quot;
+  src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot;&gt;
+&lt;/script&gt;
+
+&lt;h1&gt;Analyzing DNA sequences using Python and Scikit learn&lt;/h1&gt;
+
+&lt;p&gt;DNA sequencing has been marching forward with giant steps.
+Advances in sequencing technologies means that more and more genomes
+have been sequenced and assembled. While this is no doubt exciting for
+biologists and geneticists, the prospect of so much &amp;#39;biological code&amp;#39;
+should also inspire any data hacker.&lt;/p&gt;
+
+&lt;p&gt;While completing my MSc at Edinburgh, I had a lot of fun working with
+Python and various DNA sequences I downloaded from public databases. This small
+tutorial is meant to give you an example of how to analyze a DNA sequence of
+interest using Python&amp;#39;s machine learning libraries.&lt;/p&gt;
+
+&lt;h1&gt;Creating an &amp;quot;adapter&amp;quot; between raw data and Scikit learn&lt;/h1&gt;
+
+&lt;p&gt;In supervised machine learning, we are interested in training a model, which
+can classify unseen examples into classes. For simplicity, let us assume we have
+a binary classification task, that is we have some DNA sequences, which
+represent belong to the &amp;#39;positive&amp;#39; class and others, which belong
+to the &amp;#39;negative&amp;#39; class. These positive and negative DNA sequences are
+stored in the standard FASTA format.&lt;/p&gt;
+
+&lt;p&gt;Our first challenge is to convert DNA strings such as &amp;quot;TTGTTGGTGTCG&amp;quot; into
+a feature representation. We want to take the string &amp;quot;TTGTTGGTGTCG&amp;quot;
+and produce a vector of attribute-value pairs. This is where the &amp;quot;machine
+learning as an art and experimental science&amp;quot; part comes in.
+One, though usually quite uninformative way to represent a DNA sequence
+as a feature vector is to count the occurrence of each nucleotide. The feature
+vector, &lt;div&gt; (v_{DNA}) &lt;/div&gt; for the DNA sequence &amp;quot;TTGTTGGTGTCG&amp;quot; is then&lt;/p&gt;
+
+&lt;div&gt; \[v_{DNA}=(count(T), count(A), count(C), count(G))^T=(6,0,1,4)^T\] &lt;/div&gt;
+</content>
+ </entry>
  
 
 </feed>
