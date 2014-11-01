@@ -1,12 +1,11 @@
 ---
+layout: post
+title: Analyzing DNA sequences using Python and Scikit-learn
 ---
 
 <script type="text/javascript"
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
-
-#Analyzing DNA sequences using Python and Scikit learn
-
 DNA sequencing has been marching forward with giant steps.
 Advances in sequencing technologies means that more and more genomes
 have been sequenced and assembled. While this is no doubt exciting for
