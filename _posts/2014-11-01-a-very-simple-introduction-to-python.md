@@ -99,6 +99,7 @@ will save you from having a 'WTF is this thing here' moment
 when you come back to your code several weeks or months later.
 Python is quite relaxed about variable naming rules, but
 there are a few NO-NOs:
+
 1. Do not start a variables with numbers
 2. Do not use one of Python's reserved keywords as a variable name
 3. Do not use symbols such as '@'in variable names
@@ -211,7 +212,7 @@ about its employees.
 employee={
           'name':'Jane Doe',
           'department':'engineering',
-          'salary':270000,
+          'salary':300000,
           }
 #how do I access the value associated with a key?
 employee['name']
@@ -221,5 +222,16 @@ employee['name']
 employee.keys()
 ['department', 'salary', 'name']
 
+#how do I add another key-value pair?
+employee['programming_language']="Python"
+
+
+#check that the new key has been added by printing the keys
+employee.keys()
+#['department', 'salary', 'programming_language', 'name']
+
 #note that the keys may be returned in a different order
 ```
+###Exercises:
+1. Create a dict object for employee with the name "John Smith"
+2. Populate it with key-value pairs of your choice
