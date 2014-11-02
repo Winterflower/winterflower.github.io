@@ -62,8 +62,28 @@ print "hello world"
 
 Instead of typing "hello world" every time, we can assign
 a *name* to "hello world". In Python, assigning a name to an
-object is done using the "=" symbol. You can assign names
-to any object (number, list, string etc.)
+object is done using the "=" symbol. We can then
+rewrite the little program from above as follows
+
+```python
+hello_string="hello world"
+print hello_string
+#do something else
+print hello_string
+#do something else
+print hello_string
+```
+
+Giving an object a name and then referring to the object by a name will
+make it very easy for us to change the program. Suppose that instead
+of "hello world", we want to print "hello everyone". In the
+first version of this program, we would have to change
+every instance of "hello world" (tedious and you might miss some and
+break your program), but in the second version we have to change the
+string only once.
+
+You can assign names
+to any object types (number, list, string etc.)
 
 ```python
 #basic examples with strings, numbers and dicts
@@ -80,7 +100,7 @@ when you come back to your code several weeks or months later.
 Python is quite relaxed about variable naming rules, but
 there are a few NO-NOs:
 1. Do not start a variables with numbers
-2. Do not user one of [Python's keywords](http://en.wikibooks.org/wiki/Think_Python/Variables,_expressions_and_statements#Variable_names_and_keywords) as a variable name
+2. Do not use one of Python's reserved keywords as a variable name
 3. Do not use symbols such as '@'in variable names
 
 
@@ -171,6 +191,15 @@ favorite_ice_cream
 #the object 'vanilla' was deleted from the list
 ```
 
+###Exercises:
+1. Create a list with your favorite desserts and give it a meaningful name
+2. Print the length of `my_random_list` given by the expression
+```python
+my_random_list=range(1,10)
+```
+Find out more about the `range()` function by navigating to the Python
+docs page.
+
 
 ###1.5 Basic dictionary operations and methods
 Sometimes we want to associate particular keys with values.
@@ -186,7 +215,11 @@ employee={
           }
 #how do I access the value associated with a key?
 employee['name']
+#'Jane Doe'
 
+#how do I obtain a list of all keys?
+employee.keys()
+['department', 'salary', 'name']
 
-
+#note that the keys may be returned in a different order
 ```
