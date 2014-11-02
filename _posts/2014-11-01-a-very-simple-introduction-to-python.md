@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tutorial A very quick and simple introduction to Python part 1
+title: A very quick and simple introduction to Python (part 1)
 ---
 Hello and welcome to part 1 of the quick Python overview! This
 is a very basic tutorial that will quickly allow you to learn enough Python to
@@ -195,6 +195,7 @@ favorite_ice_cream
 ###Exercises:
 1. Create a list with your favorite desserts and give it a meaningful name
 2. Print the length of `my_random_list` given by the expression
+
 ```python
 my_random_list=range(1,10)
 ```
