@@ -12,7 +12,7 @@ in the [Online Python shell](http://repl.it/languages/Python)).
 
 If you run into any trouble or you find that a concept is wrong or
 poorly explained, please do not hesitate to contact me
-at [removed[]]. I'll try to get back to you as soon as I can!
+at camillamon[at]gmail.com. I'll try to get back to you as soon as I can!
 There is also a list of alternative Python resources at the end of this
 tutorial.
 
@@ -221,7 +221,7 @@ employee['name']
 
 #how do I obtain a list of all keys?
 employee.keys()
-['department', 'salary', 'name']
+#['department', 'salary', 'name']
 
 #how do I add another key-value pair?
 employee['programming_language']="Python"
@@ -236,3 +236,9 @@ employee.keys()
 ###Exercises:
 1. Create a dict object for employee with the name "John Smith"
 2. Populate it with key-value pairs of your choice
+
+
+##Other resources for learning Python
+* [Learn Python the Hard Way](http://learnpythonthehardway.org/)
+* [Official Python Docs] ( https://www.python.org/doc/)
+* [How to Think Like a Computer Scientist: Learning with Python 3](http://openbookproject.net/thinkcs/python/english3e/#)
