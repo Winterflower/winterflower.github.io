@@ -12,7 +12,7 @@ in the [Online Python shell](http://repl.it/languages/Python)).
 
 If you run into any trouble or you find that a concept is wrong or
 poorly explained, please do not hesitate to contact me
-at camillamon[at]gmail.com. I'll try to get back to you as soon as I can!
+at [removed[]]. I'll try to get back to you as soon as I can!
 There is also a list of alternative Python resources at the end of this
 tutorial.
 
@@ -145,7 +145,7 @@ dna[0:3]
 ```
 
 ###Exercises:
-1. Create a string in the IPython notebook provided (or your own interactive
+1. Create a string in the Online Python interpreter(or your own interactive
   Python session) and give it a descriptive name (eg. `my_string` for
     those of us lacking imagination :D)
 2. Obtain the first 4 characters of `my_string`
