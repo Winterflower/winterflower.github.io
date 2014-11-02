@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tutorial: A very quick and simple introduction to Python part 1
+title: Tutorial A very quick and simple introduction to Python part 1
 ---
 Hello and welcome to part 1 of the quick Python overview! This
 is a very basic tutorial that will quickly allow you to learn enough Python to
