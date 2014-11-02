@@ -4,7 +4,7 @@ title: Tutorial: A very quick and simple introduction to Python part 1
 ---
 Hello and welcome to part 1 of the quick Python overview! This
 is a very basic tutorial that will quickly allow you to learn enough Python to
-attend the [Intro to ML with Scikit-learn workshop](). For the purpose
+attend the [Intro to ML with Scikit-learn workshop](http://www.meetup.com/Women-in-Data/events/216552592/). For the purpose
 of this tutorial, you do not have to install Python. You can do all of the exercises
 in the [Online Python shell](http://repl.it/languages/Python)).
 
@@ -79,7 +79,10 @@ will save you from having a 'WTF is this thing here' moment
 when you come back to your code several weeks or months later.
 Python is quite relaxed about variable naming rules, but
 there are a few NO-NOs:
-1. Do not start a variables 
+1. Do not start a variables with numbers
+2. Do not user one of [Python's keywords](http://en.wikibooks.org/wiki/Think_Python/Variables,_expressions_and_statements#Variable_names_and_keywords) as a variable name
+3. Do not use symbols such as '@'in variable names
+
 
 ###Exercises:
 1. Create a string object with the name of your favorite novel and assign
@@ -176,12 +179,13 @@ about its employees.
 
 ```python
 #how do I create a dict object?
-employee1={
+employee={
           'name':'Jane Doe',
           'department':'engineering',
           'salary':270000,
           }
-#how do I access
+#how do I access the value associated with a key?
+employee['name']
 
 
 
