@@ -105,6 +105,7 @@ there are a few NO-NOs:
 3. Do not use symbols such as '@'in variable names
 
 
+
 ###Exercises:
 1. Create a string object with the name of your favorite novel and assign
 it to a variable with a descriptive name
@@ -242,3 +243,4 @@ employee.keys()
 * [Learn Python the Hard Way](http://learnpythonthehardway.org/)
 * [Official Python Docs] ( https://www.python.org/doc/)
 * [How to Think Like a Computer Scientist: Learning with Python 3](http://openbookproject.net/thinkcs/python/english3e/#)
+* [The Official Python tutorial](https://docs.python.org/2/tutorial/)
