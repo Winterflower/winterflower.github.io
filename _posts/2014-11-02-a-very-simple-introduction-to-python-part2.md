@@ -19,13 +19,9 @@ with the if-else statement.
 ###2.1 If and else
 Typically in a more complicated program, we have
 to take different actions depending on some previous result.
-For example, suppose we have a list of three numbers and we want
-to check whether any one of these numbers is divisible by 5.
-There are many ways to implement this in Python.
-
-One very simple way is to assign each element in a list
-to a variable and then use the if-statement to check whether
-these number object to which the variable points is divisible by 5.
+For example, suppose we have a number and we want
+to check whether it is divisible by 5.
+One very simple way to do this is to use the if-statement.
 
 The syntax of the if-statement in Python is as follows:
 
@@ -40,28 +36,22 @@ Here is a small example illustrating the concept:
 
 
 ```python
-random_number=5
+random_number=10
 if random_number%5==0:
   print "Divisible by 5"
 else:
   print "Not divisible by 5"
 ```
 
- An example is shown below.
-(Note for the experienced Pythonistas: this can be done very efficiently
-with a for-loop of list comprehension, but for now we will keep things
-simple)
+Let's step through the example above line by line.
+In the first line, we create the number object ('10') and
+give it the name `random_number`. Next, we want
+to find out if, the object that the name `random_number`
+points to is divisible by 5 or not. In order to do this,
+we employ the modulus operation, which gives us the remainder
+of `random_number` divided by 5. If the remainder is 0 (ie. `random_number`
+is divisible by 5), then we will print out "Divisible by 5".
 
-```python
-"""
-A very simple program to illustrate if-else statement
-"""
-
-list_of_numbers=[10,11,26]
-#assign each number to a variable
-number1=list_of_numbers[0]   #recall, indexing in Python begins with 0
-number2=list_of_numbers[1]
-number3=list_of_numbers[2]
-
-
-```
+If you want, run this program using the interactive Python shell
+or the online Python shell (link at the beginning of part 1).
+Which one of the statements is printed to the terminal?
