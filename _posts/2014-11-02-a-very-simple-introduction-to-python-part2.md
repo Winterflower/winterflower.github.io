@@ -2,6 +2,7 @@
 layout: post
 title: A very quick and simple introduction to Python (part 2)
 ---
+Version 1.0 (last updated on Nov 8th, 2014)
 
 
 Welcome back to the second part of the quick Python overview.
@@ -10,7 +11,7 @@ statements, while and for loops and creating methods. Once again, all
 comments and questions are encouraged and very welcome.
 Please feel free to email me at camillamon[at]gmail.com.
 
-###2.0 Control-flow in Python programs
+##2.0 Control-flow in Python programs
 If-else statements and for and while loops
 form the core of control-flow in Python programs.
 Let's take a brief tour of these structures, starting
@@ -26,7 +27,7 @@ One very simple way to do this is to use the if-statement.
 The syntax of the if-statement in Python is as follows:
 
 ```
-if test1:
+if test:
   do something
 else:
   do something else
@@ -53,10 +54,10 @@ of `random_number` divided by 5. If the remainder is 0 (ie. `random_number`
 is divisible by 5), then we will print out "Divisible by 5".
 
 If you want, run this program using the interactive Python shell
-or the online Python shell (link at the beginning of part 1).
+or the [online Python shell](http://repl.it/languages/Python).
 Which one of the statements is printed to the terminal?
 
-###2.0 A more complicated example
+####2.1.1 A more complicated example
 In the little program above, we only tested for one condition (whether
   or not the number we stored in `random_number` is divisible by 5).
 Usually in real programming life, testing for one condition
@@ -121,7 +122,7 @@ inside the `while` block are executed.
 
 
 ####A Word of Warning: Do not write infinite loops!
-Whn writing your first `while` loops, it's easy to forget
+When writing your first `while` loops, it's easy to forget
 to make sure that the loop terminates.
 What would happen if we leave out the statement `number+=1`
 from the `while` loop we wrote above?
@@ -132,4 +133,43 @@ from the `while` loop we wrote above?
 prints only those that are divisible by 5
 
 
-2.3 For loops
+###2.3 For loops
+The `for` 'loop is a close cousin of the `while` loop.
+It is design to iterate (or step through) items for example
+in a list or string. Let's look at the general syntax of the `for` loop.
+
+```python
+#general syntax for a for-loop
+for element in object:
+  execute code here
+```
+
+The `for` loop begins with a
+header similar to do that of the `while` loop.
+There is one key difference, though. The header for the `for`-loop
+also includes something called an assignment target which we called
+`element` in the script above.
+
+You can think of the assignment target as a box.
+When we loop through an iterable object such as a list,
+every element takes a turn jumping into the box. While
+the element 'lives in the box', we can carry out operations on it.
+
+If all of this seems nebulous right now, do not worry!
+We will make all of this concrete by working through
+a `for` loop example.
+
+We are given a list of elements (these may be strings
+or numbers of a mixture of both) and we have to print out
+each element.
+
+```python
+random_elements=["apple", "Jack", 12, 1+8, "athlete"]
+
+#let's print out each element using the for-loop
+for element in random_elements:
+  print element
+```
+It does not matter what we call the assignment target.
+Instead of `element`, we could have called it `word` or
+`chocolatebar` or even simply `x`. 
