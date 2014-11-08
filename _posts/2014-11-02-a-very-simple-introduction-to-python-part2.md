@@ -55,3 +55,71 @@ is divisible by 5), then we will print out "Divisible by 5".
 If you want, run this program using the interactive Python shell
 or the online Python shell (link at the beginning of part 1).
 Which one of the statements is printed to the terminal?
+
+###2.0 A more complicated example
+In the little program above, we only tested for one condition (whether
+  or not the number we stored in `random_number` is divisible by 5).
+Usually in real programming life, testing for one condition
+is not enough for what we aim to achieve. So let's take
+our little example one step further.
+
+Suppose that we still want to check whether the number
+stored in `random_number` is divisible by 5. If no, we
+want to check whether it is divisible by 3. This
+means that our program has to branch into three different
+'logical ' branches.
+* `random_number` is divisible by 5
+* `random_number` is not divisible by 5 but is divisible by 3
+* `random_number` is neither divisible by 5 nor divisible by 3
+
+In Python, this could be achieved in the following manner:
+
+```python
+random_number=10 #or assign a number of your choice
+if random_number%5==0:
+  print "The number is divisible by 5!"
+elif random_number%3==0:
+  print "The number is divisible by 3!"
+else:
+  print "The number is divisible neither by 5 nor 3 "
+```
+
+
+##Excercises:
+1. Find out if the year 1044 is a leap year.
+A year is a leap year, if it is divisible by 4 and 400,
+but not divisible by a 100.
+
+###2.1 The while loop
+Now that we are familiar with `if`, `else` and `elif`
+statements, can take a look at the `while` loop.
+The `while` loop executes while some condition is true and
+is especially useful if we want to execute a block of code repeatedly.
+Let's illustrate this with a simple example.
+Suppose we want to print out all of the numbers from 1 to 10.
+
+```python
+number=1   #the initial number
+while number<11:  
+  print number
+  number+=1
+```
+As we can see from the example above, a `while`
+statement is declared with the following syntax
+
+```python
+while test:
+  do something
+```
+
+The loop will keep executing until the `test` becomes false.
+In the little number printing example, the test in the while
+statement evaluates whether the number object referenced
+by `number` is less than 11. If yes, the statements
+inside the `while` block are executed.
+
+
+####A Word of Warning: Do not write infinite loops!
+Whn writing your first `while` loops, it's easy to forget
+to make sure that the loop terminates.
+What would happen if we leave out the statement `number+=1`?
