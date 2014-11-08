@@ -169,7 +169,31 @@ random_elements=["apple", "Jack", 12, 1+8, "athlete"]
 #let's print out each element using the for-loop
 for element in random_elements:
   print element
+
+"""
+#The output should be :
+apple
+Jack
+12
+9
+athlete
+"""
 ```
+
 It does not matter what we call the assignment target.
 Instead of `element`, we could have called it `word` or
-`chocolatebar` or even simply `x`. 
+`chocolatebar` or even simply `x`.
+
+Now it's time to write your own `for`-loop.
+
+###Exercises:
+1. Searching for a string in a list:
+You are given the following list (copy and paste this
+into your Python shell or text editor)
+
+```python
+strings=['absb', 'hello', 'hghgtjk', 'apples', 'icecream']
+```
+Use a `for`-loop to iterate through the list. When you
+encounter the string "apples", print out the words
+"I found apples" on the console. 
