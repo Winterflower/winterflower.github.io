@@ -68,6 +68,7 @@ stored in `random_number` is divisible by 5. If no, we
 want to check whether it is divisible by 3. This
 means that our program has to branch into three different
 'logical ' branches.
+
 * `random_number` is divisible by 5
 * `random_number` is not divisible by 5 but is divisible by 3
 * `random_number` is neither divisible by 5 nor divisible by 3
@@ -122,4 +123,5 @@ inside the `while` block are executed.
 ####A Word of Warning: Do not write infinite loops!
 Whn writing your first `while` loops, it's easy to forget
 to make sure that the loop terminates.
-What would happen if we leave out the statement `number+=1`?
+What would happen if we leave out the statement `number+=1`
+from the `while` loop we wrote above?
