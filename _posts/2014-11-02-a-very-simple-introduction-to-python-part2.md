@@ -3,7 +3,7 @@ layout: post
 title: A very quick and simple introduction to Python (part 2)
 ---
 
-(post in progress)
+
 Welcome back to the second part of the quick Python overview.
 In this section, we will cover the basics of if-else
 statements, while and for loops and creating methods. Once again, all
@@ -91,7 +91,7 @@ else:
 A year is a leap year, if it is divisible by 4 and 400,
 but not divisible by a 100.
 
-###2.1 The while loop
+###2.2 The while loop
 Now that we are familiar with `if`, `else` and `elif`
 statements, can take a look at the `while` loop.
 The `while` loop executes while some condition is true and
@@ -125,3 +125,11 @@ Whn writing your first `while` loops, it's easy to forget
 to make sure that the loop terminates.
 What would happen if we leave out the statement `number+=1`
 from the `while` loop we wrote above?
+
+
+###Exercises:
+1. Write a small program that checks the numbers from 1 to 25 and
+prints only those that are divisible by 5
+
+
+2.3 For loops
