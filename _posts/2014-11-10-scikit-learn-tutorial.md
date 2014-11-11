@@ -93,21 +93,21 @@ preprocessed our data and we have a Numpy matrix with our
 feature_vectors and a Numpy array with class labels. We are ready to
 do some machine learning!
 
-1. First, let's use the Scikit-learn API to create an instance
+First, let's use the Scikit-learn API to create an instance
 of the BernoulliNB class. For future use, we will store
 this object in a variable called `classifier`
 
 ```python
 classifier=BernoulliNB()
 ```
-2. Next, train the classifier by using our training data and training class labels.
+Next, train the classifier by using our training data and training class labels.
 
-```python
+``python
 classifier.fit(training_data_matrix, training_labels)
 ```
 Hooray!
 
-3. Test your classifier on a new incoming email
+Test your classifier on a new incoming email
 
 ```python
 test_email="hello please send password"
@@ -121,6 +121,7 @@ the value is 0.
 
 ```python
 #compute the dictionary of words based on the training set we defined above
+training_dictionary=text_adapter.dictionary_builder(training_data)
 test_feature_vector=np.array(text_adapter.binary_feature_vector_builder(training_dictionary,test_email))
 ```
 
