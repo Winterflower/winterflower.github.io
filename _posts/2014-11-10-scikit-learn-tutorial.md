@@ -85,16 +85,36 @@ this object in a variable called `classifier`
 ```python
 classifier=BernoulliNB()
 ```
-
 2. Next, train the classifier by using our training data and training class labels.
-
 ```python
 classifier.fit(training_data_matrix, training_labels)
 ```
 Hooray!
-
 3. Test your classifier on a new incoming email
 
 ```python
 test_email="hello please send password"
 ```
+
+To compute the posterior probability that this email is spam,
+we have to first convert it to a feature vector. As a reminder,
+we are using the words that occur in the training data set as our features.
+If the word is present in the email, we give it a value of 1. Else
+the value is 0.
+
+```python
+#compute the dictionary of words based on the training set we defined above
+test_feature_vector=np.array(text_adapter.binary_feature_vector_builder(training_dictionary,test_email))
+```
+
+In Scikit-learn, probability of a datapoint belonging to a certain
+class (in our case HAM or SPAM) can be calculated by calling
+the method `predict_proba()` and passing the feature vector as an argument.
+
+```python
+print classifier.predict_proba(test_feature_vector)
+```
+
+If you execute the statement above, you will notice that it returns
+two probabilities. The first probability is for class 0 (SPAM) and
+the second for class 1 (HAM).
