@@ -3,6 +3,7 @@ layout: post
 title: Introductory Tutorial
 ---
 Prerequisites:
+
 * Scikit-learn
 * the [Tutorial kit] (https://github.com/Winterflower/mockmail-intro/releases/tag/v1.0)
 
@@ -16,14 +17,14 @@ Prerequisites:
 For this tutorial, we will require three modules
 1. numpy
 2. sklearn.naive_bayes
-3. text_adapter
+3. text\_adapter
 
 Import these into your Python script.
 
 ```python
 import numpy as np  #too lazy to type numpy every time
 import text_adapter
-from sklearn.naive_bayes import BernoulliNB
+from sklearn.naive\_bayes import BernoulliNB
 ```
 In the last statement we choose to import only
 the class BernoulliNB, because we will not be
@@ -31,7 +32,16 @@ needing the other `sklearn.naive_bayes` classes.
 
 ##2. Preprocessing the training data for our classifier
 The training data (the HAM and SPAM emails)  have been
-provided for you in the script. Now, our goal is to
+provided for you in the script.
+
+```python
+spam_emails=["Hello send your password", "hello please click link", "click link",
+"your password here", "send password"]
+ham_emails=["hello reset your password", "password email", "warm hello" ]
+```
+
+
+Now, our goal is to
 process the data into a format accepted by the BernoulliNB
 class.
 
@@ -39,7 +49,6 @@ If we navigate to the [documentation for BernoulliNB]
 (http://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.BernoulliNB.html)
 we can see that the _fit_ function accepts as an argument a Numpy matrix where
 each sample is represented by a row and a Numpy array of class labels (let's
-
 denote SPAM by 0 and HAM by 1).
 
 1. Concatenate the SPAM and HAM emails into one list for easy processing
