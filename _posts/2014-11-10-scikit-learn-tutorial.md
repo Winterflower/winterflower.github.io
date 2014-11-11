@@ -53,7 +53,9 @@ each sample is represented by a row and a Numpy array of class labels (let's
 denote SPAM by 0 and HAM by 1).
 
 * Concatenate the SPAM and HAM emails into one list for easy processing
+
 ```python
+
 training_data=spam_emails+ham_emails
 ```
 * Create a one-dimensional Numpy array of class labels
@@ -70,12 +72,15 @@ training_labels=np.array([1]*len(ham_emails)+[0]*len(spam_emails))
 * Create a a Numpy feature matrix
 
 To save time, you can create the feature matrix using the
-`create_scikit_matrix` method in the module text_adapter.
+`create_scikit_matrix` method in the text-adapter module.
+
+
 Unless you used a different import statement, do
 not forget to tell Python that the method `create_scikit_matrix`
-lives in the module text_adapter. Do this by calling the method as follows
-`text_adapter.create_scikit_matrix`. If you leave, the text_adapter_ part
-out of the method call, Python will be unhappy.
+lives in the text-adapter module.
+
+Do this by calling the method as follows
+`text_adapter.create_scikit_matrix`.
 
 ```python
 training_data_matrix=text_adapter.create_scikit_matrix(training_data)
