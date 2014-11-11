@@ -59,6 +59,7 @@ training_data=spam_emails+ham_emails
 ```
 
 2. Create a one-dimensional Numpy array of class labels
+
 We have to assign a class label (0 or 1) to each email in the `training_data`
 list we created above. An easy way to do this is to use a mixture
 of repetition and list concatenation. An example is shown below, but
@@ -69,6 +70,7 @@ training_labels=np.array([1]*len(ham_emails)+[0]*len(spam_emails))
 ```
 
 3. Create a a Numpy feature matrix
+
 To save time, you can create the feature matrix using the
 `create_scikit_matrix` method in the module _text_adapter_.
 Unless you used a different import statement, do
