@@ -15,16 +15,17 @@ Prerequisites:
 
 ##1. Importing required modules
 For this tutorial, we will require three modules
+
 1. numpy
 2. sklearn.naive_bayes
-3. text\_adapter
+3. text_adapter
 
 Import these into your Python script.
 
 ```python
 import numpy as np  #too lazy to type numpy every time
 import text_adapter
-from sklearn.naive\_bayes import BernoulliNB
+from sklearn.naive_bayes import BernoulliNB
 ```
 In the last statement we choose to import only
 the class BernoulliNB, because we will not be
