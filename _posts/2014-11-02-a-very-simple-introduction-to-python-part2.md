@@ -196,4 +196,4 @@ strings=['absb', 'hello', 'hghgtjk', 'apples', 'icecream']
 ```
 Use a `for`-loop to iterate through the list. When you
 encounter the string "apples", print out the words
-"I found apples" on the console. 
+"I found apples" on the console.
