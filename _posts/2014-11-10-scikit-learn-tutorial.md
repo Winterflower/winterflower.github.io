@@ -52,13 +52,11 @@ we can see that the _fit_ function accepts as an argument a Numpy matrix where
 each sample is represented by a row and a Numpy array of class labels (let's
 denote SPAM by 0 and HAM by 1).
 
-1. Concatenate the SPAM and HAM emails into one list for easy processing
-
+* Concatenate the SPAM and HAM emails into one list for easy processing
 ```python
 training_data=spam_emails+ham_emails
 ```
-
-2. Create a one-dimensional Numpy array of class labels
+* Create a one-dimensional Numpy array of class labels
 
 We have to assign a class label (0 or 1) to each email in the `training_data`
 list we created above. An easy way to do this is to use a mixture
@@ -69,14 +67,14 @@ you are welcome to come up with your own.
 training_labels=np.array([1]*len(ham_emails)+[0]*len(spam_emails))
 ```
 
-3. Create a a Numpy feature matrix
+* Create a a Numpy feature matrix
 
 To save time, you can create the feature matrix using the
-`create_scikit_matrix` method in the module _text_adapter_.
+`create_scikit_matrix` method in the module text_adapter.
 Unless you used a different import statement, do
 not forget to tell Python that the method `create_scikit_matrix`
-lives in the module _text_adapter_. Do this by calling the method as follows
-`text_adapter.create_scikit_matrix`. If you leave, the _text_adapter_ part
+lives in the module text_adapter. Do this by calling the method as follows
+`text_adapter.create_scikit_matrix`. If you leave, the text_adapter_ part
 out of the method call, Python will be unhappy.
 
 ```python
