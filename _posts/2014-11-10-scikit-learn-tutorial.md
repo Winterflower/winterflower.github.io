@@ -101,10 +101,12 @@ this object in a variable called `classifier`
 classifier=BernoulliNB()
 ```
 2. Next, train the classifier by using our training data and training class labels.
+
 ```python
 classifier.fit(training_data_matrix, training_labels)
 ```
 Hooray!
+
 3. Test your classifier on a new incoming email
 
 ```python
