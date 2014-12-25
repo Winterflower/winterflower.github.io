@@ -13,12 +13,12 @@ url:              http://winterflower.github.io
 
 author:
   name:           'Camilla Montonen'
-  url:           
+  url:
 
 paginate:         5
 
 # Custom vars
-version:          1.0.0
+#version:          1.0.0
 
-github:
-  repo:           https://github.com/winterflower.github.io.git
+#github:
+#  repo:           https://github.com/winterflower.github.io.git
