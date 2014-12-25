@@ -2,7 +2,7 @@
 layout:post
 title: A Simple Stock Exchange Simulation (part 1)
 ---
-* The full script is available (here)[https://github.com/Winterflower/python-finance] *
+*The full script is available [here](https://github.com/Winterflower/python-finance)*
 
 ## A Simple Stock Exchange
 Suppose we have a stock exchange that only trades equities
