@@ -110,7 +110,7 @@ def pretty_print_tally(dictionary):
 
 After ten trading days at the exchange, the standing is as follows:
 
-
+```
 #########################################################
 After day 10
 Laura:
@@ -131,6 +131,7 @@ Nokia: 100
 Apple: 100
 Google: 100
 #########################################################
+```
 
 ## Programming Postmortem
 * No TDD! I launched straight into writing code without pausing
