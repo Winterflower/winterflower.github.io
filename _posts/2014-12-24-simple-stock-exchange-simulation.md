@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: A Simple Stock Exchange Simulation (part 1)
 ---
 *The full script is available [here](https://github.com/Winterflower/python-finance)*
