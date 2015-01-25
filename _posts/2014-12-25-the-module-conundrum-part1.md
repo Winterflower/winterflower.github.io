@@ -30,7 +30,9 @@ module importing works in Python.
 
 ## Module Importing Example
 We need to create two .py files:
+
 * main.py will play the role of the main script module
+
 * essentialfunctions.py will be the script module we want to import
 
 For now, be sure to place the files in the same directory.
@@ -112,7 +114,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 Hello, you have just imported essentialfunctions.py module
 ```
 
-Just as before, we see that when Python importa a module, all
+Just as before, we see that when Python imports a module, all
 of the code in the module file is executed and as a result
 "Hello, you have just imported essentialfunctions.py module"
 is printed to output.
