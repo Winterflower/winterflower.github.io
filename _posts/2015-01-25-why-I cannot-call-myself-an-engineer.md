@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why I cannot call myself an engineer?
+title: Why I cannot call myself an engineer
 ---
 
 The word "engineer" appears in my job title, a title that I have held
