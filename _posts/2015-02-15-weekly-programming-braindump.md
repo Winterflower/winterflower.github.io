@@ -36,7 +36,8 @@ I find an IDE to be easier)
 ## On-going programming reading list
 
 * Learning Python by Mark Lutz
-** Stil working through part IV: Functions and Generators. Hopefully, will
+
+** Still working through part IV: Functions and Generators. Hopefully, will
 finish it in the coming weak
 
 * Bokeh tutorial (needed for my London Underground programming project)
