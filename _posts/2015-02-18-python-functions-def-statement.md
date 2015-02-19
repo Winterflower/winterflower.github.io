@@ -3,7 +3,7 @@ layout: post
 title: "Python Functions : def statement"
 ---
 
-*This is an on-going series of notes on writing functions in Python. Most of these posts are based on Mark Lutz's excellent book Learning Python (5th Edition) * 
+_This is an on-going series of notes on writing functions in Python. Most of these posts are based on Mark Lutz's excellent book Learning Python (5th Edition)_ 
 
 
 A function is a single group of statements that makes our Python code
