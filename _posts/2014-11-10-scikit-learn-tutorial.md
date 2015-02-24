@@ -4,6 +4,7 @@ title: Introductory Tutorial
 ---
 _Note: Previously there was an error in the label generation step. The spam examples, were
 labeled '1' and the ham examples '0'. This has now been corrected _
+
 Prerequisites:
 
 * Scikit-learn
