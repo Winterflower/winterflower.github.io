@@ -2,6 +2,8 @@
 layout: post
 title: Introductory Tutorial
 ---
+_Note: Previously there was an error in the label generation step. The spam examples, were
+labeled '1' and the ham examples '0'. This has now been corrected _
 Prerequisites:
 
 * Scikit-learn
@@ -66,7 +68,7 @@ of repetition and list concatenation. An example is shown below, but
 you are welcome to come up with your own.
 
 ```python
-training_labels=np.array([1]*len(ham_emails)+[0]*len(spam_emails))
+training_labels=np.array([0]*len(ham_emails)+[1]*len(spam_emails))
 ```
 
 * Create a a Numpy feature matrix
