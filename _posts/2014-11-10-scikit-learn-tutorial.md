@@ -2,8 +2,8 @@
 layout: post
 title: Introductory Tutorial
 ---
-__Note: Previously there was an error in the label generation step. The spam examples, were
-labeled '1' and the ham examples '0'. This has now been corrected __
+__Note: Previously there was an error in the label generation step. The spam examples were
+labeled '1' and the ham examples '0'. This has now been corrected__
 
 Prerequisites:
 
