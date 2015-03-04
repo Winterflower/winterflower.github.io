@@ -5,7 +5,7 @@ _Learning braindump entries are not meant to be fully fleshed out blog posts. In
 
 Generic Types are Java classes or interfaces, which allow the programmer to pass types (ie. other classes and interfaces) as parameters. This is useful, because it allows the same class to be reused with multiple different types.
 
-(The Java tutorial track on Generics)[http://docs.oracle.com/javase/tutorial/java/generics/index.html] provides a very helpful example, the `Box`class. 
+[The Java tutorial track on Generics](http://docs.oracle.com/javase/tutorial/java/generics/index.html) provides a very helpful example, the `Box`class. 
 Suppose we want to have a class that can hold and manipulate a range of other Java classes.  
 
 To implement this idea without using generics, we may have to result to something like the following:
