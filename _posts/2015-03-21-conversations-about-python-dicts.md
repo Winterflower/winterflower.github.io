@@ -3,7 +3,7 @@ layout: post
 title: Conversations about Python Dicts
 ---
 
-1. What is the main conceptual difference between dictionaries and lists?
+## What is the main conceptual difference between dictionaries and lists?
 
 Lists in Python store objects based on a positional offset and are fetched
 based on an index whereas in dictionary objects are fetched by keys. 
@@ -26,7 +26,7 @@ print employes['engineering']
 >>> ['Lisa', 'Ann', 'Bob']
 ```
 
-2. What does it mean for a dictionary to be mutable?
+## What does it mean for a dictionary to be mutable?
 
 A variable stores a reference to a dictionary not a copy.
 Not understanding this difference fully can sometimes lead
@@ -51,7 +51,7 @@ referred to by the variable `new_icecream` even though
 we used the `icecream` variable to add it to the dictionary
 
 
-3. What are some alternatives to literals when constructing dictionaries?
+## What are some alternatives to literals when constructing dictionaries?
 
 The vanilla way to construct a dictionary in Python is to use the literal expression.
 
@@ -91,7 +91,7 @@ print nix_users
 >>>{'scientific_linux': 10, 'fedora': 100, 'redhat': 80, 'linux_mint': 40, 'ubuntu': 30, 'debian': 90}
 ```
 
-4. How do I find out about the other methods available for dictionaries?
+## How do I find out about the other methods available for dictionaries?
 
 Execute `dir(dict)` or `help(dict)`.
 
