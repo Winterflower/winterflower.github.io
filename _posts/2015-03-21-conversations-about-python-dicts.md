@@ -21,7 +21,7 @@ print securities[0]
 
 employees={'engineering':['Lisa', 'Ann', 'Bob'],
 	   'marketing':['Charlie', 'Mike']}
-print employes['engineering']
+print employees['engineering']
 
 >>> ['Lisa', 'Ann', 'Bob']
 ```
@@ -37,7 +37,7 @@ icecream={'strawberry':4, 'blueberry':5, 'banana':6}
 new_icecream=icecream
 ```
 
-The variale new_icecream refers to the exact same dictionary as the variable icecream.
+The variable `new_icecream` refers to the exact same dictionary as the variable icecream.
 We can verify this by adding another item in `icecream` and then calling
 `new_icecream` to retreve that item. 
 
