@@ -1,11 +1,11 @@
 ---
-layout:post
+layout: post
 title: A year in a blink
 ---
 
 I find it hard to believe we are over a quarter through 2016. It seems that just yesterday 
-I took the train from Edinburgh to London to start my job as a software engineer ( / code monkey/ random 
-code person, I think calling myself a software engineer is overreaching, but that's a post for
+I took the train from Edinburgh to London to start my job as a software engineer (code monkey/random 
+code person: I think calling myself a software engineer is overreaching, but that's a post for
 another time). Since then I've spent a lot of time hanging out with the amazing PyLadies London, 
 attending various meetups in the London tech scene and going to conferences. 
 
