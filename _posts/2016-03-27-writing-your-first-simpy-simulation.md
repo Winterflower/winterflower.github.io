@@ -3,7 +3,11 @@ layout: post
 title: Writing your first simulation using SimPy (Part I )
 ---
 
-![A London Double decker Routemaster bus (though you don't see these too often nowadays ) by Oxyman/Wikipedia CC]({{ site.url }}/images/London_Bus.jpg)
+{% include image.html 
+	   img="images/London_Bus.jpg"
+	   title="A London Routemaster double decker bus"
+           caption="Image by Oxyman (Wikipedia CC) "
+           url="https://commons.wikimedia.org/wiki/File:London_Bus.jpg" %}
 
 SimPy is a [Python library](https://simpy.readthedocs.org/en/latest/index.html)
 that allows you to simulate a variety of discrete-event scenarios. For example,
@@ -135,6 +139,7 @@ according to different areas of the neighbourhood.
 2. A random commuter boarding time that varies between 0 minutes (bus did not
 stop) and 10 minutes (boarding commuters took a really long time)
 
+```python
 
     import numpy
     random.seed(10)
@@ -187,6 +192,7 @@ stop) and 10 minutes (boarding commuters took a really long time)
     Driving to bus stop 14 at time 230
     Stopping at bus stop 14 at time 244
 
+```
 
 We can see from the information printed out that the drive times and boarding
 times have been randomized. While this is still not entirely realistic, it is a
