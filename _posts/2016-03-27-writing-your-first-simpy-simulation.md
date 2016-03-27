@@ -3,6 +3,8 @@ layout: post
 title: Writing your first simulation using SimPy (Part I )
 ---
 
+![A London Double decker Routemaster bus (though you don't see these too often nowadays ) by Oxyman/Wikipedia CC]({{ site.url }}/images/London_Bus.jpg)
+
 SimPy is a [Python library](https://simpy.readthedocs.org/en/latest/index.html)
 that allows you to simulate a variety of discrete-event scenarios. For example,
 you may want to investigate how the number of available checkout machines
@@ -47,8 +49,6 @@ construct a simple Python generator function to represent our bus. I will show
 the whole generator function below and then explain how the individual parts of
 the function work in the context of the SimPy simulation.
 
-```python
-
 
     import simpy
     import random 
@@ -62,7 +62,6 @@ the function work in the context of the SimPy simulation.
             yield simpy_environment.timeout(driving_duration)
             print 'Stopping to pick up commuters at bus stop %d at time %d' % (i, simpy_environment.now )
             yield simpy_environment.timeout(stopping_duration)
-```
 
 There are a few interesting things going on in the ``bus`` method. First, notice
 that we pass an argument ``simpy_environment`` into the method. This is a SimPy
@@ -87,7 +86,6 @@ represent 'boarding commuters' and 'driving'.
 Let's add some more code to allow the SimPy simulation *Environment* to execute
 this process.
 
-```python
 
     env = simpy.Environment() #create the SimPy environment
     env.process( bus(env) ) # create an instance of the Bus process
@@ -124,7 +122,7 @@ this process.
     Start driving to bus stop 14 at time 210
     Stopping to pick up commuters at bus stop 14 at time 215
 
-```
+
 There we go! Our first bus simulation completes its 14-stop round in 215
 minutes!
 Admittedly, the logic is a bit borked and unrealistic, but we will work on that
@@ -137,7 +135,6 @@ according to different areas of the neighbourhood.
 2. A random commuter boarding time that varies between 0 minutes (bus did not
 stop) and 10 minutes (boarding commuters took a really long time)
 
-```python
 
     import numpy
     random.seed(10)
@@ -190,7 +187,6 @@ stop) and 10 minutes (boarding commuters took a really long time)
     Driving to bus stop 14 at time 230
     Stopping at bus stop 14 at time 244
 
-```
 
 We can see from the information printed out that the drive times and boarding
 times have been randomized. While this is still not entirely realistic, it is a
