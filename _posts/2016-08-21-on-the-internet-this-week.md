@@ -5,7 +5,8 @@ title: On the Internet This Week
 
 # One the Internet This Week - Week 33
 
-1. [Donald Knuth - All Questions Answered (stanfordonline)](https://www.youtube.com/watch?v=CDokMxVtB3k)
+### [Donald Knuth - All Questions Answered (stanfordonline)](https://www.youtube.com/watch?v=CDokMxVtB3k)
+
 Donald Knuth answers all kinds of questions from faculty, students and questions submitted by internet viewers.
 I always enjoying watching Don Knuth lecturing or speaking ( it must have been amazing to attend Stanford and see Knuth lecturing live! ),
 and this video is no exception. Some of the things that stood out for me from this recording:
@@ -18,7 +19,8 @@ and this video is no exception. Some of the things that stood out for me from th
 
 * "There is no royal road to software, anymore than there is a royal road to mathematics." 
 
-2. [Laurent Luce - Python Treads Synchronization](http://www.laurentluce.com/posts/python-threads-synchronization-locks-rlocks-semaphores-conditions-events-and-queues/)
+### [Laurent Luce - Python Treads Synchronization](http://www.laurentluce.com/posts/python-threads-synchronization-locks-rlocks-semaphores-conditions-events-and-queues/)
+
 A great (though slightly outdated - using Python 2.6 for examples ) post about the various ways to synchronize threads in Python. I have very little experience of threading or synchronization and found this post very approachable. 
 
 
