@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: What can a technologist do about climate change?
 ---
 
