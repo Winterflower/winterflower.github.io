@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: Notes on setting up Jupyterhub on an EC2 instance (part 1 )
 ---
 
