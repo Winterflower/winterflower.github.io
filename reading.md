@@ -19,7 +19,6 @@ title: Reading List
 
 * The Vegetarian by Han Kang
 
-* 
 
 ### Computer Science and Programming :
 
