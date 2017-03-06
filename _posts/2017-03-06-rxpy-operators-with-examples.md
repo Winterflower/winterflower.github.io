@@ -32,7 +32,6 @@ Observable.from_([1,2,3,4,5])\
 An interesting thing to note is that ``take`` behaves gracefully if there are fewer data items in the stream than specified in the argument to ``take``. 
 
 ```python
-#take 2 items from the data stream
 Observable.from_([1,2,3])\
            .take(5)\
            .subscribe(lambda s: print(s))
