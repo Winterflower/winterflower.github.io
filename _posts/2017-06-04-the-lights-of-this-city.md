@@ -3,7 +3,7 @@ layout: post
 title: the lights of this city
 ---
 
-_Stay strong, everyone._
+_Stay strong, London._
 
 Sleep does not come easily on a night like this. 
 
