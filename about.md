@@ -3,18 +3,12 @@ layout: page
 title: About
 ---
 
-Hello and thank you very much for stopping by!
-My name is Camilla and I write code (mostly in Python, sometimes Java ).
-I am an active member of PyLadies London and I like exploring various cool computer science
-topics in my spare time:
+Hello there, I'm Camilla!
+I'm an aspiring machine learning engineer with an interest in building robust and testable machine learning systems.
+These days my favourite programming languages are Python and Clojure (which I am still learning). I occasionally stray into Java, but I quickly get lost in the ocean of AbstractFactories. 
+My favourite classifiers are support vector machines! I am currently researching how 'machine learning on the edge' would work in production. Imagine if your phone/Raspberry Pi could train a local classifier without having to transmit all of the data it collects to a central server!
 
-1. Distibuted systems
-2. Machine learning (support vector machines!!!)
-3. Operating systems
-4. Bioinformatics
-
-I studied Mathematics at Bryn Mawr College (just outside Philadelphia)
-and Bioinformatics at the University of Edinburgh. 
+I am currently working on Synbyote - a suite of tools that generate synthetic data for scenario testing of machine learning models. 
 
 
 If you would like to reach me by email, please use
