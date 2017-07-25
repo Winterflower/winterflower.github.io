@@ -42,7 +42,7 @@ This one, is once again, not strictly Python specific, but makes ever single ser
 
 ### Concurrency is Hard
 
-CPython makes it even harder. A. Jesse Jiruy Davis does a better job than I ever could explaining concurrency in CPython in this [post](https://opensource.com/article/17/4/grok-gil). 
+CPython makes it even harder. A. Jesse Jiryu Davis does a better job than I ever could explaining concurrency in CPython in this [post](https://opensource.com/article/17/4/grok-gil). 
 
 ### Design Your Systems for Monitoring
 
