@@ -54,5 +54,5 @@ I always strive to think about the metrics that I would find most useful in a in
 
 Starting off with what you, the designer of a system, considers useful is not always ideal, because someone else, someone who has never touched your system, may be on-call on the day that it breaks. This is why, 'debug scenarios' is one of my favourite team activities. Write down several real or hypothetical user complaints (for example, 'number X is wrong on my display and it's taking Y minutes to update. I expect the number to be A and the update to be immediate') and then ask your team members to diagnose the issue. Observe how they interact with the logs of the application and make notes of log statements that are confusing, unhelpful or red herrings. 
 
-For a more persuasive argument about the important of good monitoring, see Nathan Marz's excellent post ("How becoming a pilot made me a better programmer")[http://nathanmarz.com/blog/how-becoming-a-pilot-made-me-a-better-programmer.html].
+For a more persuasive argument about the important of good monitoring, see Nathan Marz's excellent post ["How becoming a pilot made me a better programmer"](http://nathanmarz.com/blog/how-becoming-a-pilot-made-me-a-better-programmer.html).
 
