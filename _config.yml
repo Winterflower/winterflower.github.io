@@ -6,9 +6,9 @@ highlighter:         true
 permalink:        pretty
 
 # Setup
-title:            race_conditions
-tagline:          'Coding and running'
-description:      'Thoughts on software engineering and running'
+title:            thoughtwisps
+tagline:          'One commit at a time'
+description:      'Thoughtlets on software, maths, science and society'
 url:              http://winterflower.github.io
 
 author:

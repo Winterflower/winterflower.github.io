@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: seven questions about technology
 ---
 
@@ -24,6 +24,7 @@ Before looking at the questions, we should make note of an important distinction
 
 
 The seven questions about technology:
+
 1. What is the problem to which this technology is a solution?
 There are technologies that are not solutions to any problem. 
 
