@@ -5,7 +5,7 @@ title: Decision boundary poisoning - a black box attack on a linear SVM
 
 ## Introduction
 
-If regularly browse machine learning websites, you may have seen the image of a self-driving car baffled by a circle of salt drawn on the ground. This 'hack' on the car's sensing devices shows that there is still some work to do to make sure that machine learning algorithms are robust to malicious (or accidental) data manipulation. 
+If you regularly browse machine learning websites, you may have seen the image of a self-driving car baffled by a circle of salt drawn on the ground. This 'hack' on the car's sensing devices shows that there is still some work to do to make sure that machine learning algorithms are robust to malicious (or accidental) data manipulation. 
 
 Sarah Jamie Lewis' post on [adversarial machine learning](https://mascherari.press/introduction-to-adversarial-machine-learning/) is a great introduction and bibliography on the topic of machine learning. One of the papers the article links to is ['Can Machine Learning be Secure?'](https://people.eecs.berkeley.edu/~tygar/papers/Machine_Learning_Security/asiaccs06.pdf) by Barreno et al. 
 
