@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Decision boundary poisoning - a black box attack on a linear SVM
+title: decision boundary poisoning - a black box attack on a linear SVM
 ---
 
 ## Introduction
