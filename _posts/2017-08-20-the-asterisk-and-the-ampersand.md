@@ -20,7 +20,7 @@ func main(){
 ...
 ```
 
-In the code snippet above, we initialise the variable ``helloWorld`` to hold the string "helloworld". Then we create another variable, which will hold a pointer to the value of the variable ``helloworld``. When we declare a variable that holds a pointer, we also need to specify the type of the object the pointer points to (in this case, a ``string``).
+In the code snippet above, we initialise the variable ``helloWorld`` to hold the string "helloworld". Then we create another variable, which will hold a pointer to the value of the variable ``helloWorld``. When we declare a variable that holds a pointer, we also need to specify the type of the object the pointer points to (in this case, a ``string``).
 
 ### The ampersand 
 
@@ -57,9 +57,9 @@ You can apply the ampersand operator on a pointer and you will get another memor
 
 ```go
 func main(){
-	helloWorld := "helloworld"
-	var pointerToHelloWorld *string
-	pointerToHelloWorld = &helloWorld
+    helloWorld := "helloworld"
+    var pointerToHelloWorld *string
+    pointerToHelloWorld = &helloWorld
     fmt.Println("PointerToPointer")
     fmt.Println(&pointerToHelloWorld)
 
@@ -70,8 +70,8 @@ But you cannot call the ampersand operator twice
 
 ```go
 func main(){
-	helloWorld := "helloworld"
-	var pointerToHelloWorld *string
+    helloWorld := "helloworld"
+    var pointerToHelloWorld *string
     var pointerToPointer **string
     pointerToPointer = &&helloWorld)
     fmt.Println(pointerToPointer)
@@ -86,7 +86,7 @@ Something slightly different happens if you put parentheses around the first cal
 ```go
 func main(){
 	helloWorld := "helloworld"
-	var pointerToHelloWorld *string
+    var pointerToHelloWorld *string
     var pointerToPointer **string
     pointerToPointer = &(&helloWorld)
     fmt.Println(pointerToPointer)
@@ -96,6 +96,7 @@ func main(){
 
 The compiler will throw an error: cannot take the address of &helloWorld
 
+The journey continues!
 
 
 
