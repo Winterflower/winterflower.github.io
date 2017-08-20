@@ -92,9 +92,10 @@ func main(){
     fmt.Println(pointerToPointer)
 
 }
+```
 
 The compiler will throw an error: cannot take the address of &helloWorld
-```
+
 
 
 
