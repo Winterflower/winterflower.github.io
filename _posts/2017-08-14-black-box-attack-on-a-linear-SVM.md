@@ -146,7 +146,7 @@ plt.show()
 ```
 
 
-![png](images/output_8_0.png)
+![png](../images/output_8_0.png)
 
 
 ### Attack tools
