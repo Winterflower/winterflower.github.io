@@ -11,7 +11,7 @@ It said, with a bit more empty embellishement and some typos sprinkled in, that 
 
 It feels as though my whole career has been nothing but luck. No skill, just blind luck and maybe a bit of affirmative action. It could be true for all I know. 
 
-Several weeks of effort to prepare, two phone interviews and a take home coding assigment that had taken a week of work to complete were condensed into a sentence that said thank you, but you can't sit with us. Except this time, it's not because I am 14 and not wearing makeup, skinny jeans and a smile when the captain of the track team walks by, it's because something about those lines of code I wrote, zipped and shipped was not cool.
+Several weeks of effort to prepare, two phone interviews and a take home coding assignment that had taken a week of work to complete were condensed into a sentence that said 'thank you, but you can't sit with us'. Except this time, it's not because I am 14 and not wearing makeup, skinny jeans and a smile when the captain of the track team walks by, it's because something about those lines of code I wrote, zipped and shipped was not cool.
 
 At least, in high school, we were clear on these kinds of boundaries.
  
@@ -28,12 +28,5 @@ This August marked my three year anniversary in the technology industry. I know 
 I recently walked out of an interview. The interviewers set a blank stack of papers in front of me and told me to start implementing data structures. When I got stuck, the questions were repeated in slower and more frustrated tones and the air inside grew hot and bright lights irritating. When no one spoke and my pen was not busy flying sketching code on an A4 (because that is totally how most of production ready code gets written in daily life), we all sat in silence, marvelling at my utter stupidity for not being able to conjure implementations of things that surely any programmer worth his salt could do. I wondered many things: why I couldn't solve this simple problem, how on earth had I passed their online coding test and initial phone screen, why was I here, in this room, with these people, who had no interest in being here and were probably wondering why they had to waste their time speaking to me instead of coding/sitting in meetings. 
 
 So I got up, straightened the papers and said thank you, I will see myself out.
-
-
-
-
-
- 
-
 
 
