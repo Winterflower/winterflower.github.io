@@ -15,7 +15,7 @@ Several weeks of effort to prepare, two phone interviews and a take home coding 
 
 At least, in high school, we were clear on these kinds of boundaries.
  
-Now I'm left to wonder. I wrote tests and READMEs. I checked that the sample program ran. I did my best to organize into libraries and modules, to not be DRY and make sure I checked all the YAGNIs. I was sure it was as SOLID as I could get it. 
+Now I'm left to wonder. I wrote tests and READMEs. I checked that the sample program ran. I did my best to organize into libraries and modules, to be DRY and make sure I checked all the YAGNIs. I was sure it was as SOLID as I could get it. 
 
 But I'd broken some undocumented rule that states what code written by 'real engineers' looks like.
 
