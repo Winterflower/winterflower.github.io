@@ -1,12 +1,21 @@
 ---
-layout: default
-title: Index of Posts
+layout: page
+title: Archives
 ---
 
-<ul>
-	{% for post in site.posts %}
-	<li> <a href="{{ post.url }}">{{ post.title }} </a>
-	</li>
-	{% endfor %}
-</ul>	
+{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% for year in postsByYear %}
+    <h2> {{ year.name }} </h2>
+        {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%b'" %}
+        {% for month in postsByMonth %}
+        <h3> {{ month.name }} </h3>
+        <ul>
+	     {% for post in month.items %}
+	      <li> <h3> <a href="{{ post.url }}">{{ post.title }} </a> </h3>
+	      </li>
+	     {% endfor %}
+       </ul>
+    {% endfor %}
+{% endfor %}
+
 
