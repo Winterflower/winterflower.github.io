@@ -11,13 +11,21 @@ I'm spending time away from the BigSmoke and its relentless hunger for things ma
 I got tangled this year. In things that seemed to matter, but in retrospective, mattered little. I spent too much time living in others' images, too much time collecting microdoses of pleasure from likes and retweets. In the end, the pleasure of being clicked on by strangers (even strangers whose work you respect and admire), is temporary and quickly becomes an end in itself. I noticed that a sense of purpose slowly morphed into a sense of 'what will get most tweets and likes', then, once the tweet has been dispatched, collected, catalogued, analysed, and replied to! starts the agony of
 
 crafting
+
 a reply
+
 that is witty
+
 sharp
+
 funny
+
 punny
+
 (maybe)
+
 into just
+
 280 characters
 
 or if nothing springs to mind, it's time for that muscle memory to kick in and hit the like. A few things, interactions, thoughts stayed with me, most others, were lost, instantly to be replaced by fresher and fresher content. I became passive and happy, sated with a constant stream of novelties. I became happy to consume these disconnected threads and less happy to think about the content or the meaning or the purpose. I read less. I wrote less code. Two things that are important to me personally, I did less of. And I want to change that next year. I want to try (as hard as it may be), to be without these platforms for a year, to see what can happen when there is silence.
@@ -42,13 +50,21 @@ Then, of course, there are things of old I've rediscovered. The collection of po
 
 I have always loved her poem [The Stars](http://englishings.com/nvinprint/sodergran-poems-1916.html) (don't be fooled by the banality of the title), below, in translation, by David McDuff.
 
+
 When night comes
+
 I stand on the stairway and listen,
+
 the stars are swarming in the garden
+
 and I am standing in the dark.
+
 Listen, a star fell with a tinkle!
+
 Do not go out on the grass with bare feet;
+
 my garden is full of splinters.
+
 
 It is no doubt exciting to always be submerged in novelty, to always ride the wave of the now, be dizzy from the voices and events. I've been in the midst of this hivemind now for many years and it's time for me to step back, away. I want to examine the ordinary, the mundane, the everyday. Find the things that were once looked over, find again the things that were once looked at.  
   
