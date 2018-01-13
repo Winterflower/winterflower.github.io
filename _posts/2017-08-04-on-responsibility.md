@@ -47,12 +47,14 @@ When you lose a life, however.
 Paul Kalanithi dedicated his life to being responsible for other people's future. 
 He did not take this lightly.
  
-In a passage from _When Breath Becomes Air_, he wrote "As a chief resident, nearly all responsibility fell on my shoulders, and the opportunities to succeed -- or fail -- were greater than ever. The pain of failure had led me to understand that technical excellence was a _moral_ requirement. Good intentions were not enough, not when so much depended on my skills, when the difference between tragedy and triumph was defined by one or two millimeters."_
+In a passage from _When Breath Becomes Air_, he wrote
+
+_ "As a chief resident, nearly all responsibility fell on my shoulders, and the opportunities to succeed -- or fail -- were greater than ever. The pain of failure had led me to understand that technical excellence was a _moral_ requirement. Good intentions were not enough, not when so much depended on my skills, when the difference between tragedy and triumph was defined by one or two millimeters."_
 
 
 ---
 
-My failure, unlike Dr. Kalanithi's, rarely carries consequences as dire as death of someone's mother, father, brother, sister, or child, but on that day, on that floor with its endless rows of desks and fluorescent lights, looking into the eyes of this woman who now had to work late to get her work done, just because I hadn't done mine properly, I felt it.
+My failure, unlike Dr. Kalanithi's, rarely carries consequences as dire as death of someone's mother, father, brother, sister, or child, but on that day, on that floor with its endless rows of desks and fluorescent lights, looking into the eyes of this woman who now had to work late to get her work done, just because I hadn't done mine properly, I felt it, the pain of failure.
 
 Then and there, I said the only thing I could.
 "I'm sorry".
@@ -68,7 +70,7 @@ And I knew, she was probably right.
 
 ---
 
-A lot of software is built on good intentions. On being cool and using the lattest, hottest, just-off-Github framework. It's about being a techie kid in the candy store, except the shelves are lined with stickers, t-shirts, confs and blog posts, and tech, cool cool tech! Or as Martin Thompson phrased in his GOTO Copenhagen 2017 keynote, "intellectual masturbation". 
+A lot of software is built on good intentions. On being cool and using the latest, hottest, just-off-Github framework. It's about being a techie kid in the candy store, except the shelves are lined with stickers, t-shirts, confs and blog posts, and tech, cool cool tech! Or as Martin Thompson phrased in his GOTO Copenhagen 2017 keynote, "intellectual masturbation". 
 
 But some of it is really not just 'software'. Joel Spolsky's post ["Birdcage liners"](https://www.joelonsoftware.com/2018/01/12/birdcage-liners/) examines the fragmentation of social discourse (courtesy of our favourite platforms) and warns, 
 
