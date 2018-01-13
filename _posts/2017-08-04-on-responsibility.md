@@ -49,7 +49,7 @@ He did not take this lightly.
  
 In a passage from _When Breath Becomes Air_, he wrote
 
-_ "As a chief resident, nearly all responsibility fell on my shoulders, and the opportunities to succeed -- or fail -- were greater than ever. The pain of failure had led me to understand that technical excellence was a _moral_ requirement. Good intentions were not enough, not when so much depended on my skills, when the difference between tragedy and triumph was defined by one or two millimeters."_
+__"As a chief resident, nearly all responsibility fell on my shoulders, and the opportunities to succeed -- or fail -- were greater than ever. The pain of failure had led me to understand that technical excellence was a _moral_ requirement. Good intentions were not enough, not when so much depended on my skills, when the difference between tragedy and triumph was defined by one or two millimeters."__
 
 
 ---
