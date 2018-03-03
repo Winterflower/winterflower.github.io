@@ -11,7 +11,7 @@ I suppose what I'm trying to say is that every woman's tech career will be diffe
 
 I wanted to share some of these half-baked thoughts on the platform and initially retweeted a few posts and commented, but after a while I gave up and deleted the lot. Twitter is ideal for half-baked steaming hot takes, but this is one fire I don't want to throw more kindling on. 
 I don't know what value I can add beyond restating what other people have already said. 
-It reminds of the time another prominent developer (who happens to be a woman) criticised some women in tech groups. There was lots of unnecessary hand-wringing and hot takes. But also a few well-measured responses. If we as 'women in tech' can't take a critical look at our movement and its aims and can't tolerate scrutiny from people who don't agree with out goals, then what are we really doing. 
+It reminds of the time another prominent developer (who happens to be a woman) criticised some women in tech groups. There was lots of unnecessary hand-wringing and hot takes. But also a few well-measured responses. If we as 'women in tech' can't take a critical look at our movement and its aims and can't tolerate scrutiny from people who don't agree with our goals, then what are we really doing. 
 
 Also, I'm just tired of talking about this. Actions speak louder than tweets or words.
 So that's what I'm going to focus on. 
