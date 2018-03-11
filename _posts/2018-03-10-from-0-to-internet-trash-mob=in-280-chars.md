@@ -9,5 +9,5 @@ Goodbye for now, women-in-tech Twitter community. One blog post and a whole comm
 280 character hot takes. When did we lose the ability to talk about things like adults? Why can we not take criticism and disagreement and use it to become better as a community? 
 I guess when we figured out that snide subtweets generate more engagement than direct conversation.
 
-It's been a good run. 
+It's been a good run.
 
