@@ -1,0 +1,14 @@
+---
+layout: post
+title: overzealous DRYing
+---
+
+Last night, David Winterbottom (software engineer at Octopus Energy) tweeted some thoughts about writing code. Among them was advice to avoid overzealously DRY(don't repeat yourself)ing code. Coincidentally, just a few days ago, a co-worker of mine and I had a similar debate over some proposed changes in a pull request. I had suggested refactoring some repeated functionality into a reusable method, but received some pushback - which made me start thinking why I so eagerly reach for the DRY.
+
+For those who don't write software regularly, DRY(don't repeat yourself) is an acronym that is used to help software engineers avoid code duplication. Code duplication is bad, because it usually decreases the velocity at which one is able to make changes in a codebase. Instead of making a change in the logic in one particular method, you have to make the same change in multiple places and remember/find all of the places where the functionality is duplicated! Even with modern IDEs and grep, duplicated code can sometimes elude the developer and lo and behold, you have a confusing bug on your hands. You're damn sure you made the change and still the damn program is behaving according to the old logic!
+
+When I was first starting out a few years ago, the company hired a trainer to do a three day course on software design principles. This is where I was first introduced to delightful concepts such as DRY, SOLID and my favourite mouthful YAGNI - which sounds like the name of some exotic animal - but actually stands for You Ain't Gonna Need It (just based on the acronyms, you can clearly see that software engineering is a highly regulated and standardised profession - that is a post for another day). I feel that those three days permanently burned DRY into my muscle memory. 
+
+After graduating from this three day course, I went on to write and refactor and produce lots of bugfixes (and bugs...) and have always been an overzealous devotee of DRYing. More than three lines of duplication - well let's bring out those refactoring tools we have kudos to the modern IDE and pull this out into a method. Voila! Deleting lines of code and replacing them with a call to a function never felt so good. DRY is the low-hanging fruit of refactoring - the kind that gives you the immediate warm and fuzzies.
+
+What I understood from the discussion is that blindly applying DRY to every single piece of code means accepting the tradeoff of an additional level of indirection (which is what the extra function call is ) without considering if it's appropriate for that codebase. While abstracting away common functionality usually means making faster changes, it can also make it harder for the next developer to navigate the codebase. Always consider the tradeoffs. 
