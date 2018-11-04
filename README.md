@@ -1,5 +1,6 @@
 # thoughtwisps
-The occasional and random thoughts of Camilla Montonen
+The occasional and random thoughts of Camilla Montonen.
+Copyright 2014-2018 Camilla Montonen
 
 ## Theme
 
