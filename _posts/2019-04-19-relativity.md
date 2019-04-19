@@ -9,6 +9,7 @@ stick and in a fit of curiosity decided to perform some digital archaeology. Her
 
 #### relativity
 
+```
 white feather morning, you
 kissed me with your dead lips 
 inhale, exhale, 
@@ -42,4 +43,5 @@ the mind falls within itself, unfolds quivers and disappears,
 are you older or younger, flying at the speed of light
 yet tied to me,
 I don’t know. 
+```
 
