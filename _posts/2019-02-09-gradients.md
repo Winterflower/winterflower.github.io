@@ -31,8 +31,3 @@ After Whitehall and Westminster, a quick dip into poshier than posh St James and
 
 We drive past and onwards, leaving behind the shoppers and those less fortunate they are furiously trying to ignore, traversing through a landscape that morphs from a capitalist wasteland to a capitalist wonderland and back again.  
 
-
-
-
-
-

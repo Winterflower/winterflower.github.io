@@ -3,7 +3,9 @@ layout: post
 title: the dispossessed
 ---
 
+
 Yesterday, on the train back home, I finished the last few pages of Ursula K Le Guin's _the Dispossessed_ (1974).
+
 I'll try not to spoil too much (if game-of-thrones-spoilergates are anything to judge by, we are living in a world, where our stories, just like our plastic, have become very much single use) by recounting an encounter that happens between Shevek, a resident of the planet Anarres and Keng, an ambassador from Earth to Urras, the sister planet of Anarres. 
 
 Shevek's society is built on a form of non-authoritarian socialism:, while the society he visits on Urras, in the land of A-Io, is a tightly regulated capitalist society. At the end of the novel, through a series of unfortunate circumstances, Shevek finds himself asking the ambassador from Earth for help and in the conversation describes the world on Urras as a kind of hell. 

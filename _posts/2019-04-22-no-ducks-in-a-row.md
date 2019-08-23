@@ -35,4 +35,3 @@ Similar patterns reappeared at the places I worked after this. The constant need
 If you made this far in the text, thank you! If you've successfuly transitioned to another career path after tech, I'd love to hear from you. Please feel free to drop me a note on camillamon[at]gmail.com. 
 
 
-

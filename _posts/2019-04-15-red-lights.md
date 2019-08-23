@@ -61,5 +61,4 @@ A bit furter up the street, a woman in the window smiles and waves. Behind her, 
 The mundane details of work peering behind the surface. 
 In an alley, two women lean out of the windows and one of them draws a few puffs from her cigarette. 
 
- 
 
