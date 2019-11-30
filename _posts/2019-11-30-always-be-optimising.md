@@ -1,3 +1,8 @@
+---
+layout: post
+title: always be optimising
+---
+
 It started out as 'always be shipping', the little mantra we had in our tech department. We loved it.
 And used it liberally to the probably annoyance of everyone around us. 
 Repeating it, living in it, simultaneously made us look like those chic, young, moneyed Londoners, always working, always busy, drinking our fashionable almond chai lattes while running from lunchtime power cycling to a slew of work meetings
