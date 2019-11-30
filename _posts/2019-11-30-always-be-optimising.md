@@ -4,8 +4,8 @@ title: always be optimising
 ---
 
 It started out as 'always be shipping', the little mantra we had in our tech department. We loved it.
-And used it liberally to the probably annoyance of everyone around us. 
-Repeating it, living in it, simultaneously made us look like those chic, young, moneyed Londoners, always working, always busy, drinking our fashionable almond chai lattes while running from lunchtime power cycling to a slew of work meetings
+And used it liberally to the probable annoyance of everyone around us. 
+Repeating it, living in it, simultaneously made us look like those chic, young, faux-moneyed Londoners, always working, always busy, drinking our fashionable almond chai lattes while running from lunchtime power cycling to a slew of work meetings
 and gave us an excuse to stay glued to our screens until late 8.10pm, after which you could officially
 expense any dinner on the company.
 
@@ -17,7 +17,7 @@ desire to produce more and more software, so that, at the end of the year, we mi
 leaving our comp meeting happy and blessed with the bonus. 
 
 From where we sat we could see the glass-walled corner office, with a gorgeous view of East London.
-And I'm sure, we all took turns into little narcisissitic power trips, imagining ourselves in it.
+And I'm sure, we all took turns into little narcissistic power trips, imagining ourselves in it.
 
 It wasn't easy being an outsider in this world where (almost) everyone was a white man, 
 second or third generation Oxbridge, second or third generation fancy, posh grammar school, 
@@ -48,10 +48,11 @@ On the surface it's dressed up in the fancy buzzwords of AI, business intelligen
 Although this industry has sufferred much the same fate in the court of public opinion as did the bankers
 in the post-2008 turmoil, it still continues to clothe itself in the garb of world saviour.
 And part of it's rescue plan, is building these artificial intelligence algorithms that will one day 
-diagnose you better than a doctor, police you better than the police and customise the news and media you get exposed to, to make
+diagnose you better than a doctor, police you 24/7 and customise the news and media you get exposed to, to make
 sure you are maximially engaged in the system. A happy dystopia, in other words.
 
 A peculiarity about building these systems, and the reason I came to talk about them via the memory about "always be shipping", is a step of optimisation that is required in the process of constructing them. We define a function that captures what we want to optimise and then we run an iterative mathematical procedure until we find values that optimise the function.
+
 In other words, I've swapped out "always be shipping" for "always be optimising".
 
 This idea of "always be optimising", which occurs in the process of constructing AI (please, Dear Santa, for Christmas I want nothing more than for the tech marketing spin machine to stop calling these glorified if-else statements artificial intelligence), is a reflection of the general tendency of human existence in late capitalism: optimise every waking moment to be more productive.
@@ -66,7 +67,7 @@ errant lights of airplanes landing on the nearby airport.
 
 I miss the city very dearly, but for the very selfish reason that I fear that now, that I have removed myself from an interesting surrounding,  I myself am no longer interesting. I will no longer draw curious questions in conversations or invitations to gatherings. Perhaps that is why I clung so dearly to a life that, at the end of the day, was not terribly fulfilling.
 
-Even though I am now far removed from the relentless pace of money-frenzies activity that goes on in this place, I find myself no farther from the same mentalities. I still work in technology, I'm still always be shipping or always be optimising.
+Even though I am now far removed from the relentless pace of the city, I find myself no farther from the same mentalities. I still work in technology, I'm still always be shipping or always be optimising.
 However, the fog of technoutopia, is thinner here. There are no meetups, no swag bags. There are fewer stickered laptops in work places and at the security screenings at the airport. It's easier to see through the fog. 
 
 And it's the things I see through the fog, that now, keep me awake at night. 
