@@ -14,7 +14,7 @@ I felt as though I was on the eve, my toes touching the water.
 And yet I yearned to suspend myself in this coccoon of heat and sweetness.
 
 We wondered if these mellow days would ever succumb in the harsh glare
-of the outside world, it's edges still held at bay by time, but already visible
+of the outside world, its edges still held at bay by time, but already visible
 in the future. 
 For honestly, what did we, at Bryn Mawr, little scholars in a world of wonder,
 know about the life beyond. 
