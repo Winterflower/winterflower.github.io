@@ -12,5 +12,7 @@ Central Park. On the footbridge that crosses the river, I looked up and saw the 
 in the clear sky above me._
 
 >the bridge is in darkness
-an angular ice cataract covers the river
-only here the dark quiet reveals the stars
+
+>an angular ice cataract covers the river
+
+>only here the dark quiet reveals the stars
