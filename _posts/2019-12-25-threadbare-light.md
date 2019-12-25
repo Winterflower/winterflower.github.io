@@ -4,9 +4,9 @@ layout: post
 ---
 
 _This piece of flash fiction or micro fiction
-was first written in 2013. 
+was first written in 2013._ 
 
-Back in 2013, I spent the summer between two university courses at home. 
+_Back in 2013, I spent the summer between two university courses at home. 
 For some reason, during these sleepless summer nights, I rediscovered
 a passion for Linkin Park that I hadn't known since they published that remix of their
 classic hit Numb featuring Jay-Z. I started listening to their album "A Thousand Suns" 
