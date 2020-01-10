@@ -18,8 +18,8 @@ YouTube is much the same, but with a veiled consumerist slant that proves to be 
 Although I have previously been immune to the siren calls of the reviews-meets-advertorial content,
 this year the compounded effect of moving to a country where any form of social communication requires
 overcoming a large language barries and the slow realisation that the career I had sacrificed many
-healthy early-20s years to build was slowly fizzing out into nothing, has had be hitting those
-channels harder than before. And then effects have been tangible, most visible in my wallet and the
+healthy early-20s years to build was slowly fizzing out into nothing, has had me hitting those
+channels harder than ever before. And the effects have been tangible, most visible in my wallet and the
 bulging makeup collection that now inhabits my bathroom closet.
 From the various coloured bottles and tubes stare at me with quiet disapproval as I ignore them
 in favour of watching reviews for the next great makeup release and run out to buy it. 
@@ -85,15 +85,15 @@ have shrunk to mindless time-fillers mediated by "other people accounts" used "t
 
 Or trips, trips to new places that used to be filled with a feast of new experiences
 are now simply there as backdrops for Instagram posts and YouTube videos. 
-This fall I went to Southern France and while driving amond the now-barren lavender fields, 
+This fall I went to southern France and while driving among the now-barren lavender fields, 
 I remembered [this](https://www.paulreiffer.com/2019/07/photographers-instagrammers-stop-being-so-damn-selfish-and-disrespectful/) piece by Paul Reiffel. "Photographers, Instagrammers – Stop Being So Damn Selfish and Disrespectful" - the title of the piece says it all. 
 
-Given the alarming extent to which my human, lived experiences are becoming raw materials for the massive machine learning algorithms and other kinds of software that make billions for a few overseas companies, I've started examining why is it that I am so desperate to participate in these platforms, to be seen by these algorithms and the people, who like, ride the highs and lows of this digital nootropic. And I realised that the answer was my ever-present anxiety of slowly slipping into obscurity. 
+Given the alarming extent to which my human, lived experiences are becoming raw materials for the massive machine learning algorithms and other kinds of software that make billions for a few overseas companies, I've started examining why is it that I am so desperate to participate in these platforms, to be seen by these algorithms and the people, who like me, ride the highs and lows of this digital nootropic. And I realised that the answer was my ever-present anxiety of slowly slipping into obscurity. 
 
 I'm afraid that if I bring the Don-Knuth-I've-had-enough-of-email energy into 2020 and detach myself from everything, I will no longer be. I tweet, therefore I am. I post, therefore I exist. Otherwise, how could I be me, if I'm not constantly chipping off bits of the me and chucking them off into the big, vast bitspace in the hope that someone will like what I am and who I am. 
 
 
-"I Used to Fear Being a Nobody. Then I Left Social Media" proclaims the title of Natalie Vivion Brooks [piece](https://www.nytimes.com/2019/10/01/opinion/quit-social-media.html) for the New York times and I wish I could channel this energy. Though perhaps being a contributing writer to the NYT would help alleviate my constant FOFO (Fear of Failure and Obscurity) to the point where I could actually quit the hivemind machines. 
+"I Used to Fear Being a Nobody. Then I Left Social Media" proclaims the title of Bianca Vivion Brooks' [piece](https://www.nytimes.com/2019/10/01/opinion/quit-social-media.html) for the New York times and I wish I could channel this energy. Though perhaps being a contributing writer for the NYT would help alleviate my constant FOFO (Fear of Failure and Obscurity) to the point where I could actually quit the hivemind machines. 
 
 The natural question to follow this with is to ask, well, why is it so important for me to be a somebody? There are over 7 billion people on this planet, dreaming, wishing, hoping, searching. What makes me so different from all of them that I deserve to be somekind of "somebody"? It's hard to answer this. Dave Bennet in [Bennet Notes](https://www.bennettnotes.com/) recently wrote in a piece ["People Who are Obsessed with Success and Prestige](https://www.bennettnotes.com/post/obsessed-with-success-and-prestige/) 
 "What does it look like to be obsessed with success and prestige? It probably looks a lot like me at the moment."
