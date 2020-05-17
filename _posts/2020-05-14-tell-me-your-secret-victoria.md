@@ -81,7 +81,7 @@ procrastinating by watching _Girls_ and eating
 peanut butter straight out of the jar.
 Seeing Hanna on screen, naked, was revolutionary yet unnerving.
 Here was a woman in a body that didn't come from the same razor thin
-mold and here was was, walking around in a bikini, in a bath, having
+mold and here she was, walking around in a bikini, in a bath, having
 sex with a good-looking man who owned a brownstone in New York City. 
 
 I related to Hanna, but desperately wanted to be Marnie.
@@ -103,8 +103,7 @@ I held no breaths for it happening in real life.
 ### the people on the pages of vogue, they're just like us
 
 Back to the topic at hand - fashion model YouTube,
-where young, beautiful and successful women jetset around the world
-- one night in Paris for fashion week, the next in New York for a party - 
+where young, beautiful and successful women jetset around the world - one night in Paris for fashion week, the next in New York for a party - 
 in beautiful lithe bodies. 
 Their videos have approachable titles like What I Ate in a Day (green smoothies,
 lots of kale, various vitamin shots and bespoke meals prepared by professional
@@ -120,7 +119,7 @@ a haute couture show.
 Look here they are doing crunches with a personal trainer 
 who accompanies them on every trip abroad and here is a 15 minute
 video of their ab-burner workout, so that you, just like them, 
-can obtain chiseled abs and perhaps your life too, can be sprinkle
+can obtain chiseled abs and perhaps your life too, can be sprinkled
 with a bit of glamour.
 
 The end result of these videos is diametrically opposed
@@ -219,7 +218,7 @@ The progressive #bodyposi part of my brain
 would be horrified to admit this, but I used to be
 and still am very envious of the women (it's usually
 women dominating the modelling industry) who are paid
-for their appearance and se the standard for the rest of us, for
+for their appearance and set the standard for the rest of us, for
 whom keeping up with the demands of beauty is an unpaid fourth shift
 of exercise classes and meal planning. 
 
@@ -259,7 +258,9 @@ and submits a report to some eager growth hacker or
 advertising executive. 
 
 A few months later, we will be shown an ad for a vitamin infused kale shake
-just as we are lazily browsing our Insta feed. 
+just as we are lazily browsing our Insta feed. And we, remembering that image
+of the influencer, will probably buy one the next time we visit our local
+supermarket. The circle of life in surveillance capitalism is now complete. 
 
 All of this happens behind the scenes, but we remain alone together
 with the photo.
@@ -273,7 +274,9 @@ is almost perfect, save for one crack, one glitch in the matrix. Our rolls are m
 larger, more visible. We'd have to work to reduce them, so that those rolls too would
 be worthy of inclusion in a bodypositivity hashtag. 
 
-We might never even get there, but at least we can buy the dream.
+We might never even get there, but we can buy the dream, neatly packaged
+in the form of a shake, a sports top or an exercise class.
+
 Or something close enough to it, at least.  
 
  
