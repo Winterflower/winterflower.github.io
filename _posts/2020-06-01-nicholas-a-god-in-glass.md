@@ -5,6 +5,10 @@ title: nicholas (nick)
 
 _Fiction. A part of the "a god in glass" series._
 
+_Other pieces in the series:_
+_[troublemakers](https://winterflower.github.io/2019/04/14/troublemakers/)_
+_[prologue](https://winterflower.github.io/2020/03/02/prologue-or-the-end-of-allthings/)_
+
 
 Perhaps it is peculiar to start the chronicle of my period at Big Bank with a man who rarely gave me more than two seconds of his attention and even when he did, surely thought of me as nothing more than an idiotic IT person. But infatuation is a powerful force and, for better or worse, tends to sear into the memory an imprint of the object of affection. It was thus that in the weeks after my resignation the spectre of Nick and what he represented in my fantasies came to haunt me.
 
