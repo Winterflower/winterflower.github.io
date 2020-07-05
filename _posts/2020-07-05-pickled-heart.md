@@ -32,3 +32,5 @@ When I came back upstairs,
 the moonlight had shifted
 and your form was nothing
 but a gnarly shadow praying on the hope of lonely hearts. 
+
+_If you like my writing, please consider [subscribing to my newsletter](https://tinyletter.com/winterflower). It would mean a lot to me!_
