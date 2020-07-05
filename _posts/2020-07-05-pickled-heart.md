@@ -24,7 +24,7 @@ At an unnoted time past midnight, I crept past your sleeping form into the kitch
 
 I cut out my heart and placed it on the dicing board.
 
-I watched it beat – once, twice – before it fell silet. The blood seaped into the wood – it would be impossible to get out later. 
+I watched it beat – once, twice – before it fell silent. The blood seeped into the wood – it would be impossible to get out later. 
 
 I placed it inside one of the jars that we had bought for the berries and I sealed it. 
 
