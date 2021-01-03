@@ -33,5 +33,5 @@ typing into existence a future that we did not intend and that would have no pla
 At night we slept in the old employee dorms, an act that had once been a badge of honour, a sign
 that we were down for the cause, now a prison, dowm because of the cause, not our cause.
 
-There was the lingering smell of old ambition in these rooms. But also old sex, sad sex, escape-from-dead-bedrooms sex, sex with no-consent, sex with dubious consent, against corporate policy-sex. An expectation, of something without shape or name. And we were trapped, within it, within the torturous present and the torturous memories of the past that enabled this present. The final frontier, to which  which we never quite managed to extend our technoutopian dreams of the future, that is where we escaped to.
+There was the lingering smell of old ambition in these rooms. But also old sex, sad sex, escape-from-dead-bedrooms sex, sex with no-consent, sex with dubious consent, against corporate policy-sex. An expectation, of something without shape or name. And we were trapped, within it, within the torturous present and the torturous memories of the past that enabled this present. The final frontier - our thoughts -  to which  which we never quite managed to extend our technoutopian dreams of the future, that is where we escaped to.
 
